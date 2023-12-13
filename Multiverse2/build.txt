@@ -1,0 +1,9 @@
+displayName = Multiverse 2
+author = Witherking25 + potatohead
+version = 2.5.0
+modReferences = SubworldLibrary
+homepage = https://github.com/potatiumstotalis/TModLoader---Multiverse-Reloaded
+includeSource = true
+hideCode = false
+hideResources = false
+includePDB = true
