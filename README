@@ -13,6 +13,11 @@ Now, you can craft a Portal, or use the commands `/mvtp modname/subworldname` to
 - When you place the Portal, a UI appears and lets you pick one of your subworlds
 - When you right-click the Portal, you will be transported to that subworld (the subworld will be generated on the 1st time you do this)
 
+Portal Recipe: 5x Fallen Star + 10x Stone Block at a Hellforge
+https://terrariamods.fandom.com/wiki/Multiverse_2/Multiverse_Portal
+
+Wiki: https://terrariamods.fandom.com/wiki/Multiverse_2
+
 
 Original Description:
 
@@ -28,5 +33,3 @@ For developers wanting to add their own generators:
 Just subclass ModGenerator and override `List<GenPass> GenPasses(int seed, WorldGenConfiguration configuration);` to add the gen passes.
 
 Original GitHub: https://github.com/withertech/Multiverse2
-
-Wiki: https://terrariamods.fandom.com/wiki/Multiverse_2
