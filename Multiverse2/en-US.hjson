@@ -1,0 +1,88 @@
+Mods: {
+	Multiverse2: {
+		Configs: {
+			MultiverseConfig: {
+				TpFilter: {
+					Label: Tp Filter
+					Tooltip: The list of subworlds to filter from the /mvtp command and the portal tile
+				}
+
+				Worlds: {
+					Tooltip: The list of worlds for Multiverse 2 to generate
+					Label: Worlds
+				}
+
+				PortalRecipe: {
+					Tooltip: Whether or not the Portal should have a recipe
+					Label: Portal Recipe
+				}
+
+				DisplayName: Multiverse Config
+			}
+
+			MultiverseTpFilterConfiguration: {
+				Subworld: {
+					Tooltip: The subworld to filter
+					Label: Subworld
+				}
+
+				Portal: {
+					Tooltip: Whether or not the subworld should be able to be traveled to using the portal tile
+					Label: Portal
+				}
+
+				Command: {
+					Tooltip: Whether or not the subworld should be able to be traveled to using /mvtp
+					Label: Command
+				}
+
+				Tooltip: ""
+			}
+
+			SubworldDefinition.Tooltip: ""
+
+			MultiverseWorldConfiguration: {
+				Generator: {
+					Tooltip: The world's generator
+					Label: Generator
+				}
+
+				Height: {
+					Tooltip: The world's height
+					Label: Height
+				}
+
+				Width: {
+					Tooltip: The world's width
+					Label: Width
+				}
+
+				Saving: {
+					Tooltip: Whether or not the world should save.
+					Label: Saving
+				}
+
+				Seed: {
+					Tooltip: The world's seed. If it is set to 0 (Default), then it will be random
+					Label: Seed
+				}
+
+				Name: {
+					Tooltip: The world's name
+					Label: Name
+				}
+
+				Tooltip: ""
+			}
+
+			GeneratorDefinition.Tooltip: ""
+		}
+
+		Items: {
+			PortalTileItem: {
+				Tooltip: ""
+				DisplayName: Portal Tile Item
+			}
+		}
+	}
+}

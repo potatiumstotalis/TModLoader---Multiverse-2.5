@@ -1,0 +1,48 @@
+Configs: {
+	MultiverseTpFilterConfiguration: {
+		Command: {
+		}
+
+		Portal: {
+		}
+
+		Subworld: {
+		}
+	}
+
+	MultiverseConfig: {
+		Worlds: {
+		}
+
+		PortalRecipe: {
+		}
+
+		TpFilter: {
+		}
+	}
+
+	MultiverseWorldConfiguration: {
+		Generator: {
+		}
+
+		Height: {
+		}
+
+		Width: {
+		}
+
+		Saving: {
+		}
+
+		Seed: {
+		}
+
+		Name: {
+		}
+	}
+}
+
+Items: {
+	PortalTileItem: {
+	}
+}

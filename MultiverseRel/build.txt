@@ -1,9 +1,0 @@
-displayName = Multiverse Reloaded
-author = Witherking25 + potatohead
-version = 0.1.0
-modReferences = SubworldLibrary
-homepage = https://github.com/potatiumstotalis/TModLoader---Multiverse-Reloaded
-includeSource = true
-hideCode = false
-hideResources = false
-includePDB = true
