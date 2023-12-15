@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MultiverseRel/.vs/MultiverseRel/DesignTimeBuild
+/MultiverseRel/.vs/MultiverseRel/FileContentIndex
+/MultiverseRel/.vs/MultiverseRel/v17
+/MultiverseRel/.vs/ProjectEvaluation
