@@ -1,4 +1,5 @@
 This is an update to Multiverse 2 (made by Witherking25).
+Workshop Page: https://steamcommunity.com/sharedfiles/filedetails/?id=3114599426
 
 How to set up:
 If you have any Terraria world running, close it, and head to your mod configs, to set up the Subworld configuration:
@@ -27,6 +28,5 @@ For developers wanting to add their own generators:
 Just subclass ModGenerator and override `List<GenPass> GenPasses(int seed, WorldGenConfiguration configuration);` to add the gen passes.
 
 Original GitHub: https://github.com/withertech/Multiverse2
-Updated GitHub: https://github.com/potatiumstotalis/TModLoader---Multiverse-Reloaded
 
 Wiki: https://terrariamods.fandom.com/wiki/Multiverse_2
